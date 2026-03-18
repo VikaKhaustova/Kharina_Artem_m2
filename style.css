@@ -1,0 +1,195 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+}
+
+/*Зроби цей сайт красивим 😉*/
+.logo {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: space-between;
+    font-size: 15px;
+}
+header{
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #FFAA99;
+    
+}
+
+.road{
+  background-color: #29014a;  
+  color: #f0d3af;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: 0.5s all;
+}
+
+.road:hover{
+    background-color: #8817d4;
+    transition: 0.5s all;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* --- СТИЛІ ДЛЯ HERO-БЛОКУ --- */
+
+font-size: 22px;
+    background: url('джоджо проект 11.jfif') no-repeat center/cover;
+    color: white;
+    height: 310px;
+    
+}
+
+
+.hero h1 {
+    font-size: 50px;
+    margin-bottom: 0; 
+    text-shadow: 2px 2px 5px black;
+}
+
+
+.cta-button {
+padding: 20px 30px;
+text-decoration: none;
+color: white;
+border-radius: 50px;
+margin-top: 25px;
+font-weight: bold;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+background-color: #28b485;
+height: 10px;
+}
+
+.gradient-footter{
+    display: flex;
+    background-image: linear-gradient(to top,#9d79ba,#CF6D65);
+    padding: 10px;
+    height: 70vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    margin: auto;
+    
+}
+
+main{
+    background: url('фон сайта 1 второй проект сайтов.jfif') no-repeat center/cover;
+
+}
+
+.coffee12{
+    border-radius: 10vh;
+}
+
+.orderer{
+    
+}
+
+.oned{
+  display: flex;
+  justify-content: flex-start; 
+  gap: 25px;
+   padding: 15px;
+   align-items: center;
+   flex-wrap: wrap;
+}
+.twod{
+    display: flex;
+  justify-content: flex-end;
+  gap: 25px;
+  padding: 15px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.threed{
+  display: flex;
+  justify-content: flex-start;
+  gap: 25px;
+   padding: 15px;
+   align-items: center;
+   flex-wrap: wrap;
+}
+.fourd{
+     display: flex;
+  justify-content: flex-end;
+  gap: 25px;
+   padding: 15px;
+   align-items: center;
+   flex-wrap: wrap;
+}
+.fived{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+     padding: 15px;
+     align-items: center;
+     flex-wrap: wrap;
+}
+.hero-oned-grad{
+    display: flex;
+    background-image:linear-gradient(#FFAA99,#EB9AA8);
+    height: 49vh;
+    margin: auto;
+    padding: 20px;
+    font-size: 21px;
+    margin: auto;
+}
+
+.Why{
+    color: #34fac2;
+    margin: 2px;
+    text-decoration: none;
+    padding: 2.5px;
+    transition: 0.5s all;
+}
+.Why:hover{
+     background-color: #059e73;
+     margin: 4px;
+     border-radius: 5px;
+     border: 2.5px solid #290275;
+     transition: 0.5s all;
+}
+.Why:active{
+    background-color: #8c0404;
+    transition: 0.5s all;
+}
+.tbt2{
+    background-image: url('folder/10.jpeg') no-repeat center/cover;
+}
+.rt{
+    text-decoration: none;
+    color: purple;
+    transition: 0.5s all;
+    
+}
+
+.rew{
+    border-radius: 6px;
+}
+
+.rt:hover{
+     background-color: #cc0472;
+     margin: 4px;
+     border-radius: 7px;
+     border: 2px solid #800118;
+     transition: 0.5s all;
+}
+h4,h2{
+    color: #0a3b40;
+}
+.ule{
+    font-size: 17px
+}
+.Text{
+   width: 500px; 
+}
+
