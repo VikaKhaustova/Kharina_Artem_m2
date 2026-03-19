@@ -82,7 +82,7 @@ height: 10px;
 }
 
 main{
-    background: url('фон сайта 1 второй проект сайтов.jfif') no-repeat center/cover;
+    background: url('folder/11.jpeg') no-repeat center/cover;
 
 }
 
@@ -163,7 +163,7 @@ main{
     transition: 0.5s all;
 }
 .tbt2{
-    background-image: url('folder/10.jpeg') no-repeat center/cover;
+    background-image: url('folder/12.jpeg') no-repeat center/cover;
 }
 .rt{
     text-decoration: none;
